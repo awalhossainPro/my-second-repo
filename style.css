@@ -9,6 +9,8 @@ h1{
 h3{
     padding: 10px 0px;
     text-align: center;
+    background-color: orangered;
+    color: whitesmoke;
 }
 
 p{
