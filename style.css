@@ -1,0 +1,16 @@
+h1{
+    background-color: orange;
+    height: 50px;
+    text-align: center;
+    color: white;
+    line-height: 50px;
+}
+
+h3{
+    padding: 10px 0px;
+    text-align: center;
+}
+
+p{
+    padding: 50px;
+}
