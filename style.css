@@ -15,4 +15,19 @@ h3{
 
 p{
     padding: 50px;
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+.food{
+    width: 700px;
+    height: 450px;
+    margin: 0 auto;
+    border: 1px solid greenyellow;
+}
+
+img{
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
 }
